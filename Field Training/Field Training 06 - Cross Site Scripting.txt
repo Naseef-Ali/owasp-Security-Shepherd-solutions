@@ -1,0 +1,1 @@
+1. Paste "<SCRIPT>alert('XSS')</SCRIPT>" in the field and click the button

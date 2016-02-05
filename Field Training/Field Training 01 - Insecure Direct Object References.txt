@@ -1,0 +1,3 @@
+1. Capture the traffic from Burp Suite
+2. Change the "Username" from "guest" to "admin"
+3. Click Forward
