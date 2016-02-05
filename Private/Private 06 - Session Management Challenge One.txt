@@ -1,0 +1,8 @@
+1. Capture the traffic from Burp Suite
+2. copy the "checksum" value "dXNlclJvbGU9dXNlcg=="
+3. Go to "Decoder" tab of the Burp Suite and paste the value
+4. click Decode as and choose the "Base64
+5. change "userRole=user" to "userRole=administrator"
+6. click encode as "Base64"
+7. copy the output "dXNlclJvbGU9YWRtaW5pc3RyYXRvcg==" and paste it in the checksum in the Proxy Tab and click forward
+

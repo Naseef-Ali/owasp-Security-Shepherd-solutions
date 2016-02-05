@@ -1,0 +1,2 @@
+1. google for an online Encryption/Decryption tool for Caesar cipher (eg: http://www.xarg.org/tools/caesar-cipher/)
+2. Paste the Key "Ymj wjxzqy pjd ktw ymnx qjxxts nx ymj ktqqtbnsl xywnsl; rdqtajqdmtwxjwzssnslymwtzlmymjknjqibmjwjfwjdtzltnslbnymdtzwgnlf" in the field and try different keys until an understandable Plain Text Comes up (key is 21).
